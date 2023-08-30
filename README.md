@@ -4,6 +4,7 @@
 #This is instagram app clone buid by me
 
 it got basic functionality log in and sign up 
+uploading images and creating new profile 
 
 it is using firebase and kingfisher packages
 

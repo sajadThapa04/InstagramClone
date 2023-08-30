@@ -29,3 +29,9 @@ everything is stored on firestore database any changes to the app like creating 
 log in and sign up will be reflected on firebase.
 
 Thanks again for visiting and reading the profile 
+some images of my instagram clone app
+<img width="1728" alt="Screenshot 2023-08-30 at 3 19 53 pm" src="https://github.com/sajadThapa04/InstagramClone/assets/81130860/55a03f4d-d70a-4ccc-aee3-6849625d6b10">
+<img width="1728" alt="Screenshot 2023-08-30 at 3 21 46 pm" src="https://github.com/sajadThapa04/InstagramClone/assets/81130860/0fe90112-93bc-4ab6-b529-dc23c0488d87">
+
+
+
